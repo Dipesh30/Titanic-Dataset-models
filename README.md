@@ -1,6 +1,3 @@
-Here’s a sample README file for a GitHub repository focused on analyzing the Titanic dataset and predicting the number of lives saved. You can customize it further based on your project specifics.
-
-```markdown
 # Titanic Dataset Analysis and Prediction
 
 ## Overview
