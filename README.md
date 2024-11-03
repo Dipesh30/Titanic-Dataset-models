@@ -43,7 +43,6 @@ The dataset can be obtained from the Kaggle Titanic competition page: [Titanic: 
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- [Any other libraries or tools you used]
 
 ## Analysis
 
