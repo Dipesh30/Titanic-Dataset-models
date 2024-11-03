@@ -71,7 +71,7 @@ To run the analysis and predictions, follow these steps:
 
 1. Clone the repository:
    ```bash
-  git@github.com:Dipesh30/Titanic-Dataset-models.git
+     git@github.com:Dipesh30/Titanic-Dataset-models.git
    ```
 2. Navigate to the project directory:
    ```bash
